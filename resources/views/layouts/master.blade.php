@@ -184,12 +184,12 @@
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="/">@lang('massages.home')</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/about-us">@lang('massages.about')</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="/portfolio/{id}">@lang('massages.portfolio')</a>
-                            <li><i class="bx bx-chevron-right"></i> <a href="/portfolio/{id}">@lang('massages.portfolio')</a>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/portfolio">@lang('massages.portfolio')</a>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/portfolio">@lang('massages.portfolio')</a>
                             </li>
                             <li><i class="bx bx-chevron-right"></i> <a href="/gallary">@lang('massages.gallary')</a>
                             </li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="/portal">@lang('massages.portal')</a></li>
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="/portal">@lang('massages.portal')</a></li> -->
                         </ul>
                     </div>
 
